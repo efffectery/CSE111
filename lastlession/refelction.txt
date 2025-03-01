@@ -1,0 +1,27 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+I really enjoyed the little bit of learning on the funnctional programming paradime.
+I saw the power of functions when it comes to organization and breaking complex tasks into
+blocks of code that do one thing very well.
+
+
+2. In your judgment, what is the value of test functions?
+
+I really don't see the value in smaller projects such as the ones we have done in class.
+I can however see the value epecially when working with huge code bases.
+
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+When I find a problem in code that I need to fix I always like to read out what the code is
+doing as if I was describing the code to a teammate, I fix the logic if I recognize anything.
+I then use print statements mostly as I have not found the extreme need for a debuger or test functions
+that seem to be critical in bigger enviroments and compiled langueges.
+
+
